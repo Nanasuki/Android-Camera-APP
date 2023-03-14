@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/LouisCustomCameraDemo-master.iml" filepath="$PROJECT_DIR$/LouisCustomCameraDemo-master.iml" group="LouisCustomCameraDemo-master" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" group="LouisCustomCameraDemo-master/app" />
+    </modules>
+  </component>
+</project>
